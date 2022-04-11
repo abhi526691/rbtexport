@@ -1,1 +1,1 @@
-web: gunicorn yupp.wsgi
+web:gunicorn yupp.wsgi
